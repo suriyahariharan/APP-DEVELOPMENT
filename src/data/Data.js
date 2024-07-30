@@ -1,0 +1,83 @@
+export const featured = [
+    {
+      cover: "../hero/h1.png",
+      name: "Family House",
+      total: "50 Property",
+    },
+    {
+      cover: "../hero/h2.png",
+      name: "House & Villa",
+      total: "10 Property",
+    },
+    {
+      cover: "../hero/h3.png",
+      name: "Apartment",
+      total: "10 Property",
+    },
+    {
+      cover: "../hero/h4.png",
+      name: "Office & Studio",
+      total: "20 Property",
+    },
+    {
+      cover: "../hero/h6.png",
+      name: "Villa & Condo",
+      total: "50 Property",
+    },
+  ]
+  export const list = [
+    {
+      id: 1,
+      cover: "../list/p-1.png",
+      name: "Casagrand",
+      location: "Saravanapatti,Coimbatore",
+      category: "For Rent",
+      price: "₹3,700",
+      type: "Villa",
+    },
+    {
+      id: 2,
+      cover: "../list/p-2.png",
+      name: "Bougain Villa",
+      location: "Sulur,Coimbatore",
+      category: "For Sale",
+      price: "₹9,750",
+      type: "Apartment",
+    },
+    {
+      id: 3,
+      cover: "../list/p-7.png",
+      name: "Aura Avenue",
+      location: "Kovaipudhur,Coimbatore",
+      category: "For Rent",
+      price: "₹5,860",
+      type: "Independent House",
+    },
+    {
+      id: 4,
+      cover: "../list/p-4.png",
+      name: "Prosper Tree",
+      location: "Periyanaickenpalayam,Coimbatore",
+      category: "For Sale",
+      price: "₹7,540",
+      type: "Farm House",
+    },
+    {
+      id: 5,
+      cover: "../list/p-5.png",
+      name: "Jubilant",
+      location: "Ukkadam,Coimbatore",
+      category: "For Rent",
+      price: "₹4,850",
+      type: "Independent House",
+    },
+    {
+      id: 6,
+      cover: "../list/p-6.png",
+      name: "Elite Avenue",
+      location: "Avarapalayam,Coimbatore",
+      category: "For Sale",
+      price: "₹2,742",
+      type: "Apartment",
+    },
+  ]
